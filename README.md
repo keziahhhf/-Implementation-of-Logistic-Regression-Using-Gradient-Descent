@@ -1,20 +1,20 @@
-# Implementation-of-Logistic-Regression-Using-Gradient-Descent
+## Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
-## AIM:
+#### AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
 
-## Equipments Required:
+#### Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+#### Algorithm
 1.Import the packages required.
 2.Read the dataset. 
 3.Define X and Y array. 
 4.Define a function for costFunction,cost and gradient.
 5.Define a function to plot the decision boundary and predict the Regression value.
 
-## Program:
+#### Program:
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
@@ -82,32 +82,32 @@ xnew = np.array([[0, 0, 0, 0, 0, 2, 8, 2, 0, 0, 1, 0]])
 y_prednew = predict(theta, xnew)
 print(y_prednew)
 ```
-## Output:
+#### Output:
 
-#DATASET
+##DATASET
 ![image](https://github.com/user-attachments/assets/229b1674-dd3f-46f5-b302-00a1896c4dcf)
 
-#DATATYPES OF DATASET
+##DATATYPES OF DATASET
 
 ![image](https://github.com/user-attachments/assets/d5b7519e-9d16-40bb-b5e7-0b9934c289f5)
 
-#LABELED DATASET
+##LABELED DATASET
 
 ![image](https://github.com/user-attachments/assets/bf10dcba-b3c7-46e2-a08a-2be9f39cbc56)
 
-#Y VALUE(DEPENDENT VARIABLE)
+##Y VALUE(DEPENDENT VARIABLE)
 
 ![image](https://github.com/user-attachments/assets/a3f7bcce-577a-46b4-83a7-877ce1cbf9ab)
 
-#ACCURACY
+##ACCURACY
 
 ![image](https://github.com/user-attachments/assets/36cbc430-e754-4057-8ff0-7c96215b451c)
 
-#Y VALUE
+##Y VALUE
 
 ![image](https://github.com/user-attachments/assets/412d1da1-f5d1-4128-8e75-f993657d1b27)
 
-#NEW Y PREDICTIONS
+##NEW Y PREDICTIONS
 
 ![image](https://github.com/user-attachments/assets/8c3fb8ca-4371-4fd0-8d3c-d1bed5fba93f)
 
@@ -115,6 +115,6 @@ print(y_prednew)
 
 
 
-## Result:
+#### Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
