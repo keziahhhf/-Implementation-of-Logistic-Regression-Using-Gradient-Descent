@@ -1,4 +1,4 @@
-## Implementation-of-Logistic-Regression-Using-Gradient-Descent
+ Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
 #### AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
@@ -84,30 +84,30 @@ print(y_prednew)
 ```
 #### Output:
 
-##DATASET
+## DATASET
 ![image](https://github.com/user-attachments/assets/229b1674-dd3f-46f5-b302-00a1896c4dcf)
 
-##DATATYPES OF DATASET
+## DATATYPES OF DATASET
 
 ![image](https://github.com/user-attachments/assets/d5b7519e-9d16-40bb-b5e7-0b9934c289f5)
 
-##LABELED DATASET
+## LABELED DATASET
 
 ![image](https://github.com/user-attachments/assets/bf10dcba-b3c7-46e2-a08a-2be9f39cbc56)
 
-##Y VALUE(DEPENDENT VARIABLE)
+## Y VALUE(DEPENDENT VARIABLE)
 
 ![image](https://github.com/user-attachments/assets/a3f7bcce-577a-46b4-83a7-877ce1cbf9ab)
 
-##ACCURACY
+## ACCURACY
 
 ![image](https://github.com/user-attachments/assets/36cbc430-e754-4057-8ff0-7c96215b451c)
 
-##Y VALUE
+## Y VALUE
 
 ![image](https://github.com/user-attachments/assets/412d1da1-f5d1-4128-8e75-f993657d1b27)
 
-##NEW Y PREDICTIONS
+## NEW Y PREDICTIONS
 
 ![image](https://github.com/user-attachments/assets/8c3fb8ca-4371-4fd0-8d3c-d1bed5fba93f)
 
